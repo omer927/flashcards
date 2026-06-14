@@ -1,10 +1,10 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Learning Basic French - Flashcard App*
 
 Submitted by: **Omer Omer**
 
-This web app: **insert description**
+This web app: **An interactive, single-page React web application designed to help users learn basic French vocabulary through a randomized flashcard quiz system.**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
